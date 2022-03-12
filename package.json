@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.6.0",
+    "enmap": "^5.8.8",
+    "glob": "^7.2.0",
+    "mongoose": "^6.2.5"
+  },
+  "name": "test-handlers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
